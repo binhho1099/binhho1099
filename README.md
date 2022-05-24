@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @binhho1099
+- 🌱 I’m currently learning frontend developer
+- 💞️ I’m have skill language HTML/CSS(SASS) Javascript and framework, library Javascript.
+- 📫 How to reach me phone number 0367246178 or email: binhho1099@gmail.com
